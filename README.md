@@ -475,6 +475,7 @@ Each model is trained and evaluated using a similar methodology:
 - **Training:**
   - Training is performed on the provided dataset (`x_train` and `y_train`) for 100 epochs with a batch size of 128.
   - The training process records the training duration and saves the training history and trained models.
+
 ![Screenshot 2023-11-14 at 7 21 04 PM](https://github.com/Shobhit-Singhh/Skin_cancer/assets/117563572/a8afb771-da53-414f-a229-48c8298fee7d)
 **Costum CNN model:**
 
