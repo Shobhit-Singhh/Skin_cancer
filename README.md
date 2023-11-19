@@ -23,6 +23,8 @@ This repository contains code for classifying skin lesion images into different 
 10. [Usage](#usage)
 11. [Contributions](#contributions)
 
+![Screenshot 2023-11-19 at 3 47 08 PM](https://github.com/Shobhit-Singhh/Skin_cancer/assets/117563572/abbebfba-1f23-4030-aed3-98f605d76fcb)
+
 
 ## Introduction <a name="introduction"></a>
 This the HAM10000 ("Human Against Machine with 10000 training images") dataset.It consists of 10015 dermatoscopicimages which are released as a training set for academic machine learning purposes and are publiclyavailable through the ISIC archive. This benchmark dataset can be used for machine learning and for comparisons with human experts.
